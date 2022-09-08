@@ -15,7 +15,7 @@ NumpadSub & Numpad5::-
 ; NumpadSub & Numpad8::
 NumpadSub & NumpadDiv::Tab
 
-NumpadSub & NumpadDot::?
+; NumpadSub & NumpadDot::
 ; NumpadSub & Numpad3::
 ; NumpadSub & Numpad6::
 ; NumpadSub & Numpad9::
@@ -107,7 +107,7 @@ NumpadSub & NumpadClear::" ; "
 NumpadSub & NumpadUp::}
 ;numpaddiv-in use
 
-;NumpadSub & NumpadDel::
+NumpadSub & NumpadDel::?
 NumpadSub & NumpadPgdn::<
 NumpadSub & NumpadRight::;
 NumpadSub & NumpadPgup::>
