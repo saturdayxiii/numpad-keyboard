@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="741.04791"
-     inkscape:cy="-36.769553"
+     inkscape:zoom="1"
+     inkscape:cx="609"
+     inkscape:cy="126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -93,181 +93,237 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(23.328173,-326.96087)">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1621"
+       id="use1371"
+       transform="translate(292.94388)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1282"
+       id="use1491"
+       transform="translate(283.26204,31.243815)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1621"
+       id="use1369"
+       transform="translate(219.70792)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1282"
+       id="use1489"
+       transform="translate(210.02608,31.243813)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1621"
+       id="use1367"
+       transform="translate(146.47194)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1282"
+       id="use1487"
+       transform="translate(136.7901,31.243813)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1282"
+       id="use1485"
+       transform="translate(146.47193,1.266849e-5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1621"
+       id="use1365"
+       transform="translate(73.235971)" />
     <g
-       id="g1324"
+       id="g1621"
        transform="matrix(0,0.35,-0.35,0,30.17919,328.27049)"
        inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
        inkscape:export-xdpi="149.99307"
        inkscape:export-ydpi="149.99307">
       <rect
          style="fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1280"
+         id="rect1577"
          width="133.10022"
          height="180.67421"
          x="-3.7417734"
          y="-27.79603" />
       <rect
-         style="fill:#989898;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1282"
+         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect1579"
          width="25"
          height="25"
          x="5.8799295"
          y="5.8799295" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1284"
+         id="rect1581"
          width="25"
          height="25"
          x="35.635937"
          y="5.8799295" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1286"
+         id="rect1583"
          width="25"
          height="25"
          x="65.391937"
          y="5.8799295" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1288"
+         id="rect1585"
          width="25"
          height="25"
          x="95.147949"
          y="5.8799295" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1290"
+         id="rect1587"
          width="25"
          height="25"
          x="5.8799295"
          y="33.542328" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1292"
+         id="rect1589"
          width="25"
          height="25"
          x="35.635937"
          y="33.542328" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1294"
+         id="rect1591"
          width="25"
          height="25"
          x="65.391937"
          y="33.542328" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1296"
+         id="rect1593"
          width="25"
          height="25"
          x="95.147949"
          y="33.542328" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1298"
+         id="rect1595"
          width="25"
          height="25"
          x="5.8799295"
          y="61.204723" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1300"
+         id="rect1597"
          width="25"
          height="25"
          x="35.635937"
          y="61.204723" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1302"
+         id="rect1599"
          width="25"
          height="25"
          x="65.391937"
          y="61.204723" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1304"
+         id="rect1601"
          width="25"
          height="25"
          x="95.147949"
          y="61.204723" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1306"
+         id="rect1603"
          width="25"
          height="25"
          x="5.8799295"
          y="88.867126" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1308"
+         id="rect1605"
          width="25"
          height="25"
          x="35.635937"
          y="88.867126" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1310"
+         id="rect1607"
          width="25"
          height="25"
          x="65.391937"
          y="88.867126" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1312"
+         id="rect1609"
          width="25"
          height="25"
          x="95.147949"
          y="88.867126" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1314"
+         id="rect1611"
          width="25"
          height="25"
          x="5.8799295"
          y="116.52953" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1316"
+         id="rect1613"
          width="25"
          height="25"
          x="35.635937"
          y="116.52953" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1318"
+         id="rect1615"
          width="25"
          height="25"
          x="65.391937"
          y="116.52953" />
       <rect
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1320"
+         id="rect1617"
          width="25"
          height="25"
          x="95.147949"
          y="116.52953" />
       <circle
          style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="circle1322"
+         id="circle1619"
          cx="108.77869"
          cy="-15.234364"
          r="7.2162771" />
     </g>
+    <rect
+       style="fill:#989898;fill-opacity:1;stroke:none;stroke-width:2.6978;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1282"
+       width="8.75"
+       height="8.75"
+       x="330.32846"
+       y="-28.121218"
+       transform="rotate(90)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="-339.08316"
-       y="25.064735"
+       x="330.32379"
+       y="-22.427698"
        id="text1361"
-       transform="rotate(-90)"
        inkscape:export-filename="F:\PortableApps\AutoHotkey\Right Hand 20 Key layout.png"
        inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
+       inkscape:export-ydpi="149.99307"
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan1359"
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="-339.08316"
-         y="25.064735">Num</tspan></text>
+         x="330.32379"
+         y="-22.427698">Num</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -536,166 +592,6 @@
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
          x="-17.225708"
          y="346.46463">LL</tspan></text>
-    <g
-       id="g1621"
-       transform="matrix(0,0.35,-0.35,0,103.41516,328.27049)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307">
-      <rect
-         style="fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1577"
-         width="133.10022"
-         height="180.67421"
-         x="-3.7417734"
-         y="-27.79603" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1579"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1581"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1583"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1585"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1587"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1589"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1591"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1593"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1595"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1597"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1599"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1601"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1603"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1605"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1607"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1609"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1611"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1613"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1615"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1617"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="116.52953" />
-      <circle
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="circle1619"
-         cx="108.77869"
-         cy="-15.234364"
-         r="7.2162771" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -724,20 +620,6 @@
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
          x="66.694115"
          y="346.46463">P</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="93.257225"
-       y="367.29382"
-       id="text1663"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan1661"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="93.257225"
-         y="367.29382">SPC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -852,49 +734,6 @@
          y="346.4628">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.39462px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.0598658"
-       x="564.11963"
-       y="-55.674599"
-       id="text1785"
-       transform="matrix(0,0.64646874,-1.5468652,0,0,0)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan1783"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.0598658"
-         x="564.11963"
-         y="-55.674599">&lt;&lt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="95.716118"
-       y="356.87921"
-       id="text2657"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan2655"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="95.716118"
-         y="356.87921">A</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="56.77895"
-       y="367.29382"
-       id="text3401"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan3399"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="56.77895"
-         y="367.29382">R</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
        x="66.450844"
        y="335.72266"
@@ -907,254 +746,6 @@
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
          x="66.450844"
          y="335.72266">Q</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="-339.08316"
-       y="98.300697"
-       id="text1437"
-       transform="rotate(-90)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan1435"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="-339.08316"
-         y="98.300697">Num</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="95.733292"
-       y="346.46463"
-       id="text2003"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan2001"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="95.733292"
-         y="346.46463">E</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="76.477234"
-       y="367.29382"
-       id="text2007"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan2005"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="76.477234"
-         y="367.29382">T</tspan></text>
-    <g
-       id="g1984"
-       transform="matrix(0,0.35,-0.35,0,176.65113,328.27049)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307">
-      <rect
-         style="fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1940"
-         width="133.10022"
-         height="180.67421"
-         x="-3.7417734"
-         y="-27.79603" />
-      <rect
-         style="fill:#989898;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1942"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1944"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1946"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1948"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1950"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1952"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1954"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="33.542328" />
-      <rect
-         style="fill:#989898;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1956"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1958"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1960"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1962"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1964"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1966"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1968"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1970"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1972"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1974"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1976"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1978"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect1980"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="116.52953" />
-      <circle
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="circle1982"
-         cx="108.77869"
-         cy="-15.234364"
-         r="7.2162771" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.39462px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.0598658"
-       x="564.11963"
-       y="-103.01936"
-       id="text1988"
-       transform="matrix(0,0.64646874,-1.5468652,0,0,0)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan1986"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.0598658"
-         x="564.11963"
-         y="-103.01936">&lt;&lt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.39462px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.0598658"
-       x="-568.02258"
-       y="110.80306"
-       id="text2718"
-       transform="matrix(0,-0.64646874,1.5468652,0,0,0)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan2716"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.0598658"
-         x="-568.02258"
-         y="110.80306">&lt;&lt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="-339.08316"
-       y="171.53667"
-       id="text1487"
-       transform="rotate(-90)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Right Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan1485"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="-339.08316"
-         y="171.53667">Num</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -1352,166 +943,6 @@
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
          x="267.80408"
          y="320.89523" /></text>
-    <g
-       id="g7066"
-       transform="matrix(0,0.35,-0.35,0,249.88711,328.27049)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307">
-      <rect
-         style="fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7022"
-         width="133.10022"
-         height="180.67421"
-         x="-3.7417734"
-         y="-27.79603" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7024"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7026"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7028"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7030"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="5.8799295" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7032"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7034"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7036"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="33.542328" />
-      <rect
-         style="fill:#989898;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7038"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="33.542328" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7040"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7042"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7044"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7046"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="61.204723" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7048"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7050"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7052"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7054"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="88.867126" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7056"
-         width="25"
-         height="25"
-         x="5.8799295"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7058"
-         width="25"
-         height="25"
-         x="35.635937"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7060"
-         width="25"
-         height="25"
-         x="65.391937"
-         y="116.52953" />
-      <rect
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="rect7062"
-         width="25"
-         height="25"
-         x="95.147949"
-         y="116.52953" />
-      <circle
-         style="fill:#494949;fill-opacity:1;stroke:none;stroke-width:7.708;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         id="circle7064"
-         cx="108.77869"
-         cy="-15.234364"
-         r="7.2162771" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -1523,51 +954,6 @@
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
          x="223.24039"
          y="347.40875">&quot;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.39462px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.0598658"
-       x="564.11963"
-       y="-150.36414"
-       id="text7070"
-       transform="matrix(0,0.64646874,-1.5468652,0,0,0)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan7068"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.0598658"
-         x="564.11963"
-         y="-150.36414">&lt;&lt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.39462px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.0598658"
-       x="-568.02258"
-       y="158.14784"
-       id="text7074"
-       transform="matrix(0,-0.64646874,1.5468652,0,0,0)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan7072"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.0598658"
-         x="-568.02258"
-         y="158.14784">&lt;&lt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="-339.08316"
-       y="244.77266"
-       id="text7100"
-       transform="rotate(-90)"
-       inkscape:export-filename="F:\PortableApps\AutoHotkey\Right Hand 20 Key layout.png"
-       inkscape:export-xdpi="149.99307"
-       inkscape:export-ydpi="149.99307"><tspan
-         sodipodi:role="line"
-         id="tspan7098"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="-339.08316"
-         y="244.77266">Num</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -1670,46 +1056,16 @@
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
          x="223.2874"
          y="356.20822">;</tspan></text>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text4463"
-       id="use1768"
-       transform="translate(73.235981)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text7138"
-       id="use1770"
-       transform="translate(73.235981)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text1667"
-       id="use1554"
-       transform="translate(73.235991)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text5069"
-       id="use1662"
-       transform="translate(73.235981)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g7066"
-       id="use2122"
-       transform="translate(73.235963)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="276.90921"
+       x="203.67323"
        y="356.90634"
        id="text1657"><tspan
          sodipodi:role="line"
          id="tspan1655"
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="276.90921"
+         x="203.67323"
          y="356.90634">?</tspan></text>
     <text
        xml:space="preserve"
@@ -1789,5 +1145,119 @@
         </g>
       </g>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text2841"
+       id="use1493"
+       transform="translate(0,22.945879)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1361"
+       id="use1699"
+       transform="translate(73.23596)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1361"
+       id="use1701"
+       transform="translate(146.47192)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1361"
+       id="use1703"
+       transform="translate(219.7079)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1641"
+       id="use1906"
+       transform="translate(73.235976)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1773"
+       id="use1908"
+       transform="translate(73.235961)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1773"
+       id="use1910"
+       transform="translate(146.47193)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1773"
+       id="use1912"
+       transform="translate(219.70793)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1773"
+       id="use1914"
+       transform="translate(292.94388)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1773"
+       id="use1916"
+       transform="rotate(180,92.141258,365.94727)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1773"
+       id="use1918"
+       transform="rotate(180,128.75925,365.94727)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4463"
+       id="use1920"
+       transform="translate(73.235978)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1667"
+       id="use1922"
+       transform="translate(73.235982)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text7138"
+       id="use1924"
+       transform="translate(73.235977)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text5069"
+       id="use1926"
+       transform="translate(73.235984)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1675"
+       id="use1928"
+       transform="translate(73.235965)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1739"
+       id="use1930"
+       transform="translate(73.235962)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1671"
+       id="use1932"
+       transform="translate(73.235962)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1777"
+       id="use1934"
+       transform="translate(73.235972)" />
   </g>
 </svg>
