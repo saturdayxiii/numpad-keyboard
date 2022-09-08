@@ -1,5 +1,5 @@
 # numpad-keyboard
-*[AutoHotkey](https://www.autohotkey.com/) script (version 2, atm) for using a number pad as a keyboard.*
+*[AutoHotkey](https://www.autohotkey.com/) script (version 2, atm) for using a number pad as a one handed keyboard.*
 
 I'd love to call the keyscheme **"lunf"**, but really, one needed key change could change everything, and it's too early to say that won't happen.
 
