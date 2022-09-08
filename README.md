@@ -3,11 +3,13 @@
 
 I'd love to call the keyscheme **"lunf"**, but really, one needed key change could change everything, and it's too early to say that won't happen.
 
-This script was written for this numpad specifically: https://www.amazon.ca/gp/product/B018EEYK1810
+This script was written for this numpad specifically: 
 
-Different pads can behave differently.  Specificly the number 5 key might not return a key when the number lock is off.
+<a href="https://www.amazon.ca/gp/product/B018EEYK18" target="_blank"><img src="https://m.media-amazon.com/images/I/61M5KRe5MTL._AC_SL1500_.jpg" width="300"></a>
 
-Even with this numpad I couldn't get the script to detect the 00 button, so it just doubles whatever button is subbing Numpad0... L seems like the best choice.
+Different pads are usable, but can have different keys and may behave differently.  Specificly the number 5 key might not return any symbol when the numlock is off.
+
+Even with this numpad I couldn't get the script to detect the 00 button, so it just doubles whatever button is subbing Numpad0... "L" seems like the best choice.
 
 Usage tips:
 
