@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="609"
-     inkscape:cy="126"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1379.2118"
+     inkscape:cy="76.367532"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -482,8 +482,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="-6.6548986"
-       y="336.022"
+       x="85.94474"
+       y="346.43658"
        id="text1715"
        inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
        inkscape:export-xdpi="149.99307"
@@ -491,8 +491,8 @@
          sodipodi:role="line"
          id="tspan1713"
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="-6.6548986"
-         y="336.022">U</tspan></text>
+         x="85.94474"
+         y="346.43658">U</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -721,8 +721,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="85.892296"
-       y="346.4628"
+       x="-6.7073531"
+       y="336.04822"
        id="text1781"
        inkscape:export-filename="F:\PortableApps\AutoHotkey\Left Hand 20 Key layout.png"
        inkscape:export-xdpi="149.99307"
@@ -730,8 +730,8 @@
          sodipodi:role="line"
          id="tspan1779"
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="85.892296"
-         y="346.4628">G</tspan></text>
+         x="-6.7073531"
+         y="336.04822">G</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
@@ -804,7 +804,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="166.71837"
+       x="170.04903"
        y="356.91721"
        id="text7138"
        inkscape:export-filename="D:\Downloads\Sync\Desktopiest\AutoHotkey\numpad layout.png"
@@ -812,8 +812,8 @@
        inkscape:export-ydpi="149.99307"><tspan
          sodipodi:role="line"
          id="tspan7136"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="166.71837"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="170.04903"
          y="356.91721">Bck</tspan></text>
     <text
        xml:space="preserve"
@@ -890,7 +890,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="166.91008"
+       x="316.6666"
        y="346.46463"
        id="text5069"
        inkscape:export-filename="D:\Downloads\Sync\Desktopiest\AutoHotkey\numpad layout.png"
@@ -898,8 +898,8 @@
        inkscape:export-ydpi="149.99307"><tspan
          sodipodi:role="line"
          id="tspan5067"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="166.91008"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="316.6666"
          y="346.46463">ALT</tspan></text>
     <text
        xml:space="preserve"
@@ -1070,12 +1070,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="277.23386"
+       x="286.75882"
        y="336.05002"
        id="text60124"><tspan
          id="tspan60122"
          style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="277.23386"
+         x="286.75882"
          y="336.05002"
          sodipodi:role="line">!</tspan></text>
     <text
@@ -1092,13 +1092,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
-       x="313.59726"
+       x="170.31581"
        y="346.49716"
        id="text9425"><tspan
          sodipodi:role="line"
          id="tspan9423"
-         style="fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
-         x="313.59726"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="170.31581"
          y="346.49716">Tab</tspan></text>
     <text
        xml:space="preserve"
@@ -1228,13 +1228,7 @@
        y="0"
        xlink:href="#text7138"
        id="use1924"
-       transform="translate(73.235977)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text5069"
-       id="use1926"
-       transform="translate(73.235984)" />
+       transform="translate(73.235979)" />
     <use
        x="0"
        y="0"
@@ -1259,5 +1253,72 @@
        xlink:href="#text1777"
        id="use1934"
        transform="translate(73.235972)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
+       x="277.83252"
+       y="336.05002"
+       id="use1584"
+       inkscape:export-filename="D:\Downloads\Sync\Desktopiest\AutoHotkey\numpad layout.png"
+       inkscape:export-xdpi="149.99307"
+       inkscape:export-ydpi="149.99307"><tspan
+         sodipodi:role="line"
+         id="tspan1638"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="277.83252"
+         y="336.05002">Esc</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text9425"
+       id="use2132"
+       transform="translate(73.235973)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
+       x="278.07761"
+       y="356.8548"
+       id="text2204"
+       inkscape:export-filename="D:\Downloads\Sync\Desktopiest\AutoHotkey\numpad layout.png"
+       inkscape:export-xdpi="149.99307"
+       inkscape:export-ydpi="149.99307"><tspan
+         sodipodi:role="line"
+         id="tspan2202"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="278.07761"
+         y="356.8548">Vol-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:1.25;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
+       x="287.65411"
+       y="356.8548"
+       id="text2208"
+       inkscape:export-filename="D:\Downloads\Sync\Desktopiest\AutoHotkey\numpad layout.png"
+       inkscape:export-xdpi="149.99307"
+       inkscape:export-ydpi="149.99307"><tspan
+         sodipodi:role="line"
+         id="tspan2206"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="287.65411"
+         y="356.8548">Vol+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70415px;line-height:0.65;font-family:sans-serif;fill:#66b5d0;fill-opacity:1;stroke:none;stroke-width:0.092604"
+       x="297.18353"
+       y="334.82175"
+       id="text2410"
+       inkscape:export-filename="D:\Downloads\Sync\Desktopiest\AutoHotkey\numpad layout.png"
+       inkscape:export-xdpi="149.99307"
+       inkscape:export-ydpi="149.99307"><tspan
+         sodipodi:role="line"
+         id="tspan2408"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="297.18353"
+         y="334.82175">Prnt</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#66b5d0;fill-opacity:1;stroke-width:0.092604"
+         x="297.18353"
+         y="337.22943"
+         id="tspan2412">scr</tspan></text>
   </g>
 </svg>

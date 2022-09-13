@@ -5,29 +5,30 @@ Suspend
 ToolTip "Keypad toggled."
 SetTimer () => ToolTip(), -4000
 }
-NumpadSub & Numpad0::!
-;NumpadSub & Numpad1::
-; NumpadSub & Numpad4::
+NumpadSub & Numpad0::Escape
+NumpadSub & Numpad1::!
+NumpadSub & Numpad4::PrintScreen
 NumpadSub & Numpad7::&
 
 ; NumpadSub & Numpad2::
 NumpadSub & Numpad5::-
 ; NumpadSub & Numpad8::
-NumpadSub & NumpadDiv::Tab
+NumpadSub & NumpadDiv::Alt
 
-; NumpadSub & NumpadDot::
-; NumpadSub & Numpad3::
+NumpadSub & NumpadDot::Volume_Down
+NumpadSub & Numpad3::Volume_Up
 ; NumpadSub & Numpad6::
 ; NumpadSub & Numpad9::
 ; NumpadSub & NumpadMult::
 
-; NumpadSub & NumpadEnter::
+NumpadSub & NumpadEnter::LWin
 NumpadSub & NumpadAdd::_
 #SuspendExempt False
 
 ;primaries, numlock on
+
 Numpad0::l
-Numpad1::u
+Numpad1::g
 Numpad4::n
 Numpad7::f
 ;NumLock::
@@ -53,6 +54,7 @@ NumpadAdd::t ; can't NumLock
 BackSpace::Space ; can't NumLock
 
 ;secondaries, numlock off
+
 NumpadIns::j
 NumpadEnd::q
 NumpadLeft::m
@@ -61,7 +63,7 @@ NumpadHome::k
 ;Numpad00-can't use
 NumpadDown::p
 NumpadClear::b
-NumpadUp::g
+NumpadUp::u
 ;numpaddiv-in use
 
 NumpadDel::z
@@ -81,7 +83,7 @@ NumpadSub & Numpad7::^
 NumpadSub & Numpad2::[
 NumpadSub & Numpad5::'
 NumpadSub & Numpad8::]
-NumpadSub & NumpadDiv::Alt ;can't NumLock
+NumpadSub & NumpadDiv::Tab ;can't NumLock
 
 NumpadSub & NumpadDot::,
 NumpadSub & Numpad3::(
