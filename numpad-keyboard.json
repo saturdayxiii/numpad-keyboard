@@ -1,10 +1,11 @@
 {
     "version":  "1",
-    "license":  "",
+    "description":  "AutoHotkey Script for using a number pad as a one handed keyboard.",
+    "license":  "CC-BY-4.0",
     "extract_dir":  "",
     "url":  "https://github.com/saturdayxiii/numpad-keyboard",
     "depends":  "",
     "homepage":  "https://github.com/saturdayxiii/numpad-keyboard",
     "hash":  "",
-    "bin":  "numpad-keypad-v1-AHKv2.ahk"
+    "bin":  "numpad-keypad.ahk"
 }
