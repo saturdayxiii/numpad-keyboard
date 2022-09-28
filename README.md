@@ -11,6 +11,13 @@ Different pads are usable, but can have different keys and may behave differentl
 
 Even with this numpad I couldn't get the script to detect the 00 button, so it just doubles whatever button is subbing Numpad0... "L" seems like the best choice.
 
+Install:  Have [AutoHotkey](https://www.autohotkey.com/) version 2 installed, then just run the .ahk file from here.  
+You can add numpad-keyboard to your scoop.sh apps by running
+
+~~~
+scoop install https://raw.githubusercontent.com/saturdayxiii/numpad-keyboard/main/numpad-keyboard.json
+~~~
+
 Usage tips:
 
 - Turn the numpad 90° clockwise.  There you go.
