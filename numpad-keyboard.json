@@ -1,0 +1,10 @@
+{
+    "version":  "1",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/saturdayxiii/numpad-keyboard",
+    "depends":  "",
+    "homepage":  "https://github.com/saturdayxiii/numpad-keyboard",
+    "hash":  "",
+    "bin":  "numpad-keypad-v1-AHKv2.ahk"
+}
