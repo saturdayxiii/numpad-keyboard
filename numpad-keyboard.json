@@ -8,9 +8,9 @@
   "extract_dir": "numpad-keyboard-1",
   "bin": "numpad-keypad.ahk"
   "shortcuts": [
-      [
-          "numpad-keypad.ahk",
-          "numpad-keyboard"
-      ]
+    [
+      "numpad-keypad.ahk",
+      "numpad-keyboard"
+    ]
   ],
 }
