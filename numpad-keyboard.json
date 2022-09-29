@@ -4,7 +4,7 @@
   "license": "CC-BY-4.0", 
   "homepage": "https://github.com/saturdayxiii/numpad-keyboard",
   "suggest": {
-    "AutoHotKey v2": "extras/autohotkey2"
+      "AutoHotKey2": "extras/autohotkey2"
   },
   "url": "https://github.com/saturdayxiii/numpad-keyboard/archive/refs/tags/v1.zip",
   "hash": "b7caa59ce31db224062c02fb2fdf6cb57e346173575016a91fd85153dfac2ad5",
