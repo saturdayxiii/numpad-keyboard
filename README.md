@@ -1,6 +1,8 @@
 # numpad-keyboard
 *[AutoHotkey](https://www.autohotkey.com/) script (version 2, atm) for using a number pad as a one handed keyboard.*
 
+[![Video](http://i3.ytimg.com/vi/52c01fJGBLw/hqdefault.jpg)](https://www.youtube.com/watch?v=52c01fJGBLw)
+
 I'd love to call the keyscheme **"lunf"**, but really, one needed key swap could change everything.  And that's what happened. It can no longer be called lunf.  It's too volatile to name after key order right now.
 
 This script was specifically written for this numpad: 
